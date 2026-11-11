@@ -1,5 +1,7 @@
 # Tika Together
 
+[Open Tika Together](https://nyvora-vision-labs.github.io/tika-together/) · [GitHub repository](https://github.com/Nyvora-Vision-Labs/tika-together)
+
 A responsive, buildless Bhai Tika photo upload prototype. Open `dist/index.html` in a browser, or serve `dist` with `python3 -m http.server 8000 --directory dist`.
 
 Supports separate sister and brother photos, drag and drop, previews, replacement, removal, image decoding validation, and a 10 MB limit per photo. Accepted formats: JPEG, PNG, WebP. Photos remain in browser memory and are cleared on reload; there is no upload server or persistent storage.
